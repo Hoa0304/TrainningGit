@@ -4,7 +4,7 @@ package com.ttchoa22ite.population.models;
 public final class Admin {
     private String Username;
     private String Password;
-
+    private String Hoa;
     public String getUsername() {
         return Username;
     }
